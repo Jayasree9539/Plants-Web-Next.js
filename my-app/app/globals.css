@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.bg-hero {
+    background-image: url('/indoor7.jpg'); /* Remove 'public/' */
+    background-size: cover;
+    background-position: center;
+  }
+
+
+
+
